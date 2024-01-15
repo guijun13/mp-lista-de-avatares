@@ -7,3 +7,6 @@ Quick project from [Codante](https://codante.io/) of a responsive avatar list us
 
 ## 🌐 Deploy
 https://mp-lista-de-avatares.vercel.app/
+
+### Codante solution
+https://github.com/icaroharry/mp-lista-de-avatares
